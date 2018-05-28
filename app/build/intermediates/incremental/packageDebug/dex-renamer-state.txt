@@ -1,0 +1,7 @@
+#Mon Jul 03 22:06:10 IST 2017
+base.0=/root/StudioProjects/Ring  Mode2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f163ea70bb0238d68abb47a4c7b9a64f0ca40499
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/root/StudioProjects/Ring  Mode2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_db2e2318a482943cdf417ede2d5b5bd0f5129c33/classes.dex
+base.1=/root/StudioProjects/Ring  Mode2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_db2e2318a482943cdf417ede2d5b5bd0f5129c33
+file.0=/root/StudioProjects/Ring  Mode2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f163ea70bb0238d68abb47a4c7b9a64f0ca40499/classes.dex

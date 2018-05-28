@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/drawable-hdpi/callt.png",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/callt.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/drawable-hdpi/share.png",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/share.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/drawable-hdpi/android1.png",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/android1.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/drawable-hdpi/android.png",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/android.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/drawable-hdpi/metro_icon1.png",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/metro_icon1.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/drawable-hdpi/gre.png",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/gre.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/drawable-hdpi/metroicon.png",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/metroicon.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/drawable-hdpi/reds.png",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/reds.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/drawable-hdpi/r.png",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/r.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/drawable-hdpi/msear.png",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/msear.png"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/drawable-hdpi/metro_icon.png",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/metro_icon.png"
+    }
+]

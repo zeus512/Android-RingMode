@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/root/StudioProjects/Ring  Mode2/app/src/main/res"/><source path="/root/StudioProjects/Ring  Mode2/app/build/generated/res/rs/debug"/><source path="/root/StudioProjects/Ring  Mode2/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/root/StudioProjects/Ring  Mode2/app/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/root/StudioProjects/Ring  Mode2/app/src/main/res"><file name="icon" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-mdpi/icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="main2" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/layout/main2.xml" qualifiers="" type="layout"/><file name="howto" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/layout/howto.xml" qualifiers="" type="layout"/><file name="firstsplash" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/layout/firstsplash.xml" qualifiers="" type="layout"/><file name="icon" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-ldpi/icon.png" qualifiers="ldpi-v4" type="drawable"/><file path="/root/StudioProjects/Ring  Mode2/app/src/main/res/values/strings.xml" qualifiers=""><string name="hello">Hello World, Mainactivity!</string><string name="howtotext13"> 1. Spaces  and  Special chars  (Spaces will be considered).
+                            
+                            
+             </string><string name="howtotext14">2. Case Sensitive.</string><string name="howtotext1"> Here you can see three boxes namely RING , SILENT and VIBRATE. You need to enter your desired secret code for all three boxes and save it (Like a password). </string><string name="s3i">Instructions :</string><string name="howtotext12"> Suppose you have saved RINGPHONE as secret key in your phone for above mentioned RING box , you need to send RINGPHONE as a text message from the other phones to your number in order to set your phone mode to RING MODE. </string><string name="app_name"> Phone Mode</string><string name="s1">Screen One:</string><string name="s3id">When you send SMS with the above saved text from any mobile, then your mobile will be changing its present mode to sent codes mode.</string><color name="t">#95dd69</color><string name="s32">Example :</string><string name="s33">Caution :Please check your secret codes for:</string><string-array name="wordss">
+
+        <item>CLEVER/LEARNED-FOOL/STUPID</item>
+
+                <item>EASY TO UNDERSTAND-DIFFICULT/MYSTERIOUS</item>
+
+                        <item>CONFUSE-SURPRISE/AMAZE</item>
+
+                                <item>TALKING TOO MUCH/INDIRECT SPEECH-TALKING LESS/BRIEF</item>
+                                <item>  PRAISE-CRITICIZE/SCOLD</item>
+                                <item>HASTE/HURRY-SLOW</item>
+                                <item>DENY/GIVE UP-CANCEL/WITHDRAW</item>
+                                <item>CLEAN-UNCLEAN/DISORGANIZED</item>
+                                <item>ACTIVE/ATTENTIVE-INACTIVE</item>
+                                <item>TIRED/WEAKEN-PREVENT/CONTROL</item>
+                                <item>PLENTY/EXCESS-SHORTAGE</item>
+                                <item>RICH-POOR</item>
+                                <item>WASTEFUL-CAREFUL/STINGY</item>
+                                <item>BIG-SMALL</item>
+                                <item>LESSEN/DECREASE-INCREASE</item>
+                                <item>MAKE WORSE/IRRITATE-MAKE BETTER/IMPROVE</item>
+                                <item>MAIN POINT/PEAK-LOWEST POINT</item>
+                                <item>QUARRELSOME/ILL TEMPERED-PEACEFUL</item>
+                                <item>DISOBEDIENT/STUBBORN-OBIDIENT/UNDERSTANDING</item>
+                                <item>OVER WEIGHT-THIN</item>
+                                <item>BRAVE/DETERMINED-AFRAID</item>
+                                <item>DESIRE-DISLIKE</item>
+
+  
+
+    
+
+    </string-array></file><file name="reds" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/reds.png" qualifiers="hdpi-v4" type="drawable"/><file name="thk2" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/thk2.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="share" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/share.png" qualifiers="hdpi-v4" type="drawable"/><file name="msear" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/msear.png" qualifiers="hdpi-v4" type="drawable"/><file name="metroicon" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/metroicon.png" qualifiers="hdpi-v4" type="drawable"/><file name="callt" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/callt.png" qualifiers="hdpi-v4" type="drawable"/><file name="imagesbn" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/imagesbn.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="r" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/r.png" qualifiers="hdpi-v4" type="drawable"/><file name="metro_icon1" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/metro_icon1.png" qualifiers="hdpi-v4" type="drawable"/><file name="android1" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/android1.png" qualifiers="hdpi-v4" type="drawable"/><file name="finalconfirm1" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/finalconfirm1.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="redn" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/redn.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="gre" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/gre.png" qualifiers="hdpi-v4" type="drawable"/><file name="bc" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/bc.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="images" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/images.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="metro_icon" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/metro_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="android" path="/root/StudioProjects/Ring  Mode2/app/src/main/res/drawable-hdpi/android.png" qualifiers="hdpi-v4" type="drawable"/></source><source path="/root/StudioProjects/Ring  Mode2/app/build/generated/res/rs/debug"/><source path="/root/StudioProjects/Ring  Mode2/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/root/StudioProjects/Ring  Mode2/app/src/debug/res"/></dataSet><mergedItems/></merger>

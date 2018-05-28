@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView   xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent" 
+  android:id="@+id/scrollView1"
+   android:layout_height="fill_parent"
+   >
+<AbsoluteLayout android:id="@+id/AbsoluteLayout01"
+ android:layout_width="fill_parent"
+ 
+  android:layout_height="fill_parent" 
+  android:background="#ffffff"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  <TextView android:id="@+id/TextView01"
+   android:text="SWITCH TO SILENT"
+    android:layout_width="wrap_content"
+     android:layout_y="50dip"
+     android:textColor="#f88017"
+     android:focusable="false"
+     
+      android:textSize="6.5pt"
+      android:textStyle="bold"
+      android:layout_x="35dip"
+       android:layout_height="wrap_content">
+       </TextView>
+<TextView android:id="@+id/TextView02"
+ android:text="SWITCH TO RING" 
+ android:textColor="#f88017"
+   android:focusable="false"
+ android:textStyle="bold"
+ android:layout_width="wrap_content" 
+ android:layout_y="110dip" 
+ android:textSize="6.5pt"
+ android:layout_x="35dip"
+  android:layout_height="wrap_content">
+  </TextView>
+<TextView android:id="@+id/TextView03"
+ android:text="SWITCH TO VIBRATE" 
+ android:layout_width="wrap_content"
+  android:layout_y="175dip" 
+    android:focusable="false"
+  android:textColor="#f88017"
+   android:textStyle="bold"
+   android:textSize="6.5pt"
+  android:layout_x="35dip" 
+  android:layout_height="wrap_content"></TextView>
+<EditText android:id="@+id/silent" 
+android:layout_width="120px"
+ android:layout_y="35dip" 
+android:keepScreenOn="false"
+android:focusableInTouchMode="true"
+ android:text=""
+    android:textColor="#000"
+ android:layout_x="175dip" 
+ android:layout_height="wrap_content">
+ </EditText>
+<EditText android:id="@+id/ring" 
+android:layout_width="120px" 
+android:layout_y="95dip"
+ android:text=""
+
+  android:layout_x="175dip" 
+  android:layout_height="wrap_content">
+  </EditText>
+<EditText android:id="@+id/vibrate"
+ android:layout_width="120px"
+android:layout_y="155dip" 
+android:text=""
+android:focusableInTouchMode="true"
+
+ android:layout_x="175dip"
+  android:layout_height="wrap_content">
+  </EditText>
+<Button android:id="@+id/Save"
+ android:layout_width="120px"
+  android:text="Save" 
+  android:textColor="#fff"
+  android:layout_y="225dip"
+    
+  android:background="@drawable/reds"
+   android:layout_x="110dip" 
+   android:layout_height="80px">
+   </Button>
+   
+<LinearLayout 
+ android:layout_height="120px" 
+ android:id="@+id/linearLayout1" 
+ android:layout_width="fill_parent" 
+android:layout_y="320dip"
+android:orientation="vertical"
+android:background="#555555"
+android:gravity="left">
+
+<TextView  android:text="Our Other App's" 
+android:textColor="#ffffff"
+android:layout_height="wrap_content"
+android:textSize="12px"
+android:textStyle="bold"
+android:layout_width="wrap_content">
+ </TextView>
+ 
+  <LinearLayout 
+ android:layout_height="fill_parent" 
+ android:id="@+id/linearLayout1" 
+ android:layout_width="fill_parent" 
+android:layout_y="350dip"
+android:orientation="vertical"
+android:background="#ffffff"
+>
+
+ <LinearLayout 
+ android:layout_height="fill_parent" 
+ android:id="@+id/linearLayout1" 
+ android:layout_width="fill_parent" 
+
+android:orientation="horizontal"
+android:background="#ffffff"
+>
+     <ImageView android:layout_height="wrap_content"
+     android:src="@drawable/gre"
+      android:id="@+id/gre"
+      android:paddingLeft="5px"
+      android:paddingTop="10px"
+      android:onClick="onClick"
+             android:layout_width="wrap_content"></ImageView>
+
+<ImageView android:layout_height="wrap_content"
+     android:src="@drawable/msear"
+      android:id="@+id/msear"
+      android:paddingLeft="5px"
+            android:paddingTop="10px"
+          android:onClick="onClick"
+      android:maxHeight="20px"
+               android:layout_width="wrap_content"></ImageView>
+       <ImageView android:layout_height="wrap_content"
+     android:src="@drawable/callt"
+      android:id="@+id/callt"
+      android:onClick="onClick"
+            android:paddingTop="10px"
+       android:paddingLeft="5px"
+                android:layout_width="wrap_content"></ImageView>
+        <ImageView android:layout_height="wrap_content"
+     android:src="@drawable/metroicon"
+                android:id="@+id/share"
+                android:onClick="onClick"
+                 android:paddingLeft="20px"
+                       android:paddingTop="10px"
+       android:layout_width="wrap_content"></ImageView>
+
+</LinearLayout>
+ <LinearLayout 
+ android:layout_height="fill_parent" 
+ android:id="@+id/linearLayout1" 
+ android:layout_width="fill_parent" 
+android:background="#ffffff"
+>
+<TextView android:layout_y="90dip"
+ android:text="\nLearn Android :  www.android-trainer.com\n\n" android:id="@+id/pc" 
+android:textColor="#555555"
+android:layout_height="wrap_content"
+android:textSize="12px"
+android:layout_gravity="center"
+android:textStyle="bold"
+android:paddingLeft="15px"
+ android:layout_x="12dip" android:layout_width="wrap_content">
+ </TextView>
+ 
+</LinearLayout>
+
+
+
+
+</LinearLayout>
+
+
+</LinearLayout>
+ 
+</AbsoluteLayout>
+
+</ScrollView>

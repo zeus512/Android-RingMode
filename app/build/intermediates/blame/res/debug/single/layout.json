@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/layout/main2.xml",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/layout/main2.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/layout/firstsplash.xml",
+        "source": "/home/goutham/StudioProjects/Ring  Mode2/app/src/main/res/layout/firstsplash.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/layout/main2.xml",
+        "source": "/home/goutham/StudioProjects/Ring  Mode2/app/src/main/res/layout/main2.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/layout/firstsplash.xml",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/layout/firstsplash.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/layout/howto.xml",
+        "source": "/root/StudioProjects/Ring  Mode2/app/src/main/res/layout/howto.xml"
+    },
+    {
+        "merged": "/home/goutham/StudioProjects/Ring  Mode2/app/build/intermediates/res/merged/debug/layout/howto.xml",
+        "source": "/home/goutham/StudioProjects/Ring  Mode2/app/src/main/res/layout/howto.xml"
+    }
+]

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="hello">Hello World, Mainactivity!</string>
+    <string name="s1">Screen One:</string>
+    <string name="s3i">Instructions :</string>
+     <string name="s32">Example :</string>
+     <string name="s33">Caution :Please check your secret codes for:</string>
+    <string name="s3id">When you send SMS with the above saved text from any mobile, then your mobile will be changing its present mode to sent codes mode.</string>
+<string name="howtotext1"> Here you can see three boxes namely RING , SILENT and VIBRATE. You need to enter your desired secret code for all three boxes and save it (Like a password). </string>
+<string name="howtotext12"> Suppose you have saved RINGPHONE as secret key in your phone for above mentioned RING box , you need to send RINGPHONE as a text message from the other phones to your number in order to set your phone mode to RING MODE. </string>
+    
+    <string name="howtotext13"> 1. Spaces  and  Special chars  (Spaces will be considered).
+                            
+                            
+             </string>               
+ <string name="howtotext14">2. Case Sensitive.</string>
+    <string name="app_name"> Phone Mode</string>
+
+    <string-array name="wordss">
+
+        <item>CLEVER/LEARNED-FOOL/STUPID</item>
+
+                <item>EASY TO UNDERSTAND-DIFFICULT/MYSTERIOUS</item>
+
+                        <item>CONFUSE-SURPRISE/AMAZE</item>
+
+                                <item>TALKING TOO MUCH/INDIRECT SPEECH-TALKING LESS/BRIEF</item>
+                                <item>  PRAISE-CRITICIZE/SCOLD</item>
+                                <item>HASTE/HURRY-SLOW</item>
+                                <item>DENY/GIVE UP-CANCEL/WITHDRAW</item>
+                                <item>CLEAN-UNCLEAN/DISORGANIZED</item>
+                                <item>ACTIVE/ATTENTIVE-INACTIVE</item>
+                                <item>TIRED/WEAKEN-PREVENT/CONTROL</item>
+                                <item>PLENTY/EXCESS-SHORTAGE</item>
+                                <item>RICH-POOR</item>
+                                <item>WASTEFUL-CAREFUL/STINGY</item>
+                                <item>BIG-SMALL</item>
+                                <item>LESSEN/DECREASE-INCREASE</item>
+                                <item>MAKE WORSE/IRRITATE-MAKE BETTER/IMPROVE</item>
+                                <item>MAIN POINT/PEAK-LOWEST POINT</item>
+                                <item>QUARRELSOME/ILL TEMPERED-PEACEFUL</item>
+                                <item>DISOBEDIENT/STUBBORN-OBIDIENT/UNDERSTANDING</item>
+                                <item>OVER WEIGHT-THIN</item>
+                                <item>BRAVE/DETERMINED-AFRAID</item>
+                                <item>DESIRE-DISLIKE</item>
+
+  
+
+    
+
+    </string-array>
+    <color name="t">#95dd69</color>
+
+</resources>
+
